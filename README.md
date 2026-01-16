@@ -1,6 +1,6 @@
 Robotic Hand Controlled by Hand Gestures
 This project features an Arduino-based robotic hand designed to mimic human hand movements in real-time. By using a specialized glove equipped with flex sensors, the system captures the nuances of finger gestures and translates them into precise robotic actions.
-<img width="559" height="330" alt="image" src="https://github.com/user-attachments/assets/56133e40-ee70-4eb9-9873-042a4f780b64" />
+
 
 Project Overview
 This interface bridges the gap between the physical human world and digital robotics, offering a natural and intuitive mode of interaction. It is designed for precision handling in environments where direct human contact may be unsafe.
@@ -17,7 +17,7 @@ Precision Handling: Capable of mimicking routine human hand functions.
 
 🛠 Methodology & Components
 The system operates on the principle of voltage division. As the flex sensors bend, their resistance changes; the Arduino measures this change through its analog input pins.
-
+<img width="559" height="330" alt="image" src="https://github.com/user-attachments/assets/56133e40-ee70-4eb9-9873-042a4f780b64" />
 Hardware Components
 Microcontroller: Arduino (The "brain" of the project).
 
